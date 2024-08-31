@@ -16,7 +16,6 @@ The Pizza Ordering System is a web-based application built using Laravel and MyS
 - **Database**: MySQL
 - **Frontend**: Blade Templating Engine, Bootstrap, HTML5, CSS3, JavaScript
 - **Version Control**: Git
-- **API**: RESTful API for handling customer orders and interactions
 
 ## Installation
 
@@ -85,13 +84,7 @@ The Pizza Ordering System is a web-based application built using Laravel and MyS
 5. **Order Management**: Users can view their order history and track current orders.
 6. **Admin Panel**: Access the admin dashboard to manage pizzas, orders, and users (admin users only).
 
-## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new feature branch.
-3. Commit your changes.
-4. Push the branch to your fork.
-5. Submit a pull request.
+
 
 
 ## Acknowledgements
