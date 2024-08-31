@@ -23,7 +23,6 @@ The Pizza Ordering System is a web-based application built using Laravel and MyS
 - PHP >= 7.3
 - Composer
 - MySQL
-- Node.js & NPM (for front-end dependencies)
 - Git
 
 ### Steps
